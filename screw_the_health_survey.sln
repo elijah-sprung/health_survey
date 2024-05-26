@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "screw_the_health_survey", "screw_the_health_survey.pyproj", "{6DB882B9-C4ED-47FF-B6AE-0CCC18DCF243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB882B9-C4ED-47FF-B6AE-0CCC18DCF243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB882B9-C4ED-47FF-B6AE-0CCC18DCF243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EB5CF9-F185-46F3-B07F-6EA81C1A5651}
+	EndGlobalSection
+EndGlobal
